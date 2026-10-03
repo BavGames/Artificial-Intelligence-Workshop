@@ -6,11 +6,8 @@ Atölye, **BavGames tarafından geliştirilen** bir masaüstü kodlama asistanı
 
 Uygulama, seçtiğin OpenAI uyumlu API sağlayıcısına bağlanır. Noxery bu kılavuzda örnek olarak kullanılır; başka uyumlu sağlayıcıların veya yerel servislerin adresini de girebilirsin. Yapay zeka yanıtını seçilen model üretir.
 
-```text
-<---- 01: UYGULAMANIN ANA EKRAN RESMİ EKLENECEK ---->
-```
+<img width="1425" height="899" alt="image" src="https://github.com/user-attachments/assets/c79351a9-f3ba-4078-9030-78314a1fa35a" />
 
-**Görselde:** Sol üstte BavGames yazısı, sohbet alanı, Klasör aç ve Bağlantı ve ayarlar düğmeleri görünsün. Dosya adı: `gorseller/01-ana-ekran.png`.
 
 ## 1. Ne işe yarar?
 
