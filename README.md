@@ -1,4 +1,4 @@
-https://github.com/BavGames/Artificial-Intelligence-Workshop/releases/tag/v1 Bu bağlantıya tıklayarak BavGames-Atolye-1.1.0-Windows-x64.zip dosyasını indirin indirdiğiniz zip dosyasını klasöre çıkartıp atolye.exe dosyasını çalıştırın
+https://github.com/BavGames/Artificial-Intelligence-Workshop/releases/tag/v1 Bu bağlantıya tıklayarak **BavGames-Atolye-1.1.0-Windows-x64.zip** dosyasını indirin indirdiğiniz zip dosyasını klasöre çıkartıp atolye.exe dosyasını çalıştırın
 
 
 
