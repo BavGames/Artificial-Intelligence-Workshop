@@ -38,8 +38,6 @@ Atolye.exe dosyasını yanındaki `resources`, `locales` ve diğer dosyalardan a
 <img width="854" height="445" alt="image" src="https://github.com/user-attachments/assets/760d1e99-3ed9-45b7-b179-8409593f002d" />
 
 
-**Görselde:** Windows Dosya Gezgini içinde Atolye.exe, resources ve locales birlikte görünsün. Dosya adı: `gorseller/02-kurulum-klasoru.png`.
-
 ## 3. API bağlantısı nasıl kurulur?
 
 Sol alttaki **Bağlantı ve ayarlar** düğmesine bas. Açılan **Çalışma arkadaşını seç.** penceresindeki alanları doldur:
@@ -73,8 +71,6 @@ Noxery örnek bir API sağlayıcısıdır. Atölye paketi Noxery hesabı, abonel
 <img width="1281" height="752" alt="image" src="https://github.com/user-attachments/assets/f38a3d46-1a58-426b-84d5-e6693b6c0b5d" />
 
 
-**Görselde:** API anahtarlarının bulunduğu bölüm ve yeni anahtar oluşturma düğmesi görünsün. Gerçek anahtarın tamamını ve hesap bilgilerini kapat. Dosya adı: `gorseller/03-noxery-api-anahtari.png`.
-
 ### B. Model kimliğini bul
 
 [Noxery model sayfasından](https://noxery.net/tr/models) hesabında kullanmak istediğin modeli incele. Atölye'de **Kaydet ve modelleri getir** düğmesiyle alınan listedeki kimliği kullan. Örneğin `gpt-6-astra`, hesabının listesinde varsa seçilebilir; listede yoksa erişebildiğin başka bir modeli seç.
@@ -83,8 +79,6 @@ Modelin resim desteği ve kullanılabilirliği modele göre değişir. Sağlayı
 
 <img width="1289" height="875" alt="image" src="https://github.com/user-attachments/assets/c324755d-84f4-4ed6-9204-f2517505ac19" />
 
-
-**Görselde:** Modelin adı ve tam model kimliği okunabilsin. Görsellerle kullanımı anlatıyorsan görsel desteği olan bir modeli göster. Dosya adı: `gorseller/04-noxery-model.png`.
 
 ### C. Atölye ayarlarını doldur
 
@@ -101,8 +95,6 @@ Modelin resim desteği ve kullanılabilirliği modele göre değişir. Sağlayı
 
 <img width="1415" height="893" alt="image" src="https://github.com/user-attachments/assets/0c3c99f8-f6b6-4c8c-b73f-d00e4c0a75bd" />
 
-
-**Görselde:** Çalışma arkadaşını seç. başlığı, API adresi, maskelenmiş anahtar, model kimliği, yanıt sınırı ve başarılı model listesi durumu görünsün. Dosya adı: `gorseller/05-atolye-ayarlar.png`.
 
 ## 5. Proje açma ve ilk görev
 
@@ -129,8 +121,6 @@ Ayarları kaydettikten sonra pencereyi tekrar açınca model seçimi boş görü
 <img width="1416" height="892" alt="image" src="https://github.com/user-attachments/assets/8db0dfa0-95cc-401c-93d4-d0e6bfb5ae86" />
 
 
-**Görselde:** Örnek proje adı, sağdaki dosya listesi ve örnek bir inceleme mesajı görünsün. Paylaşılabilir bir örnek proje kullan. Dosya adı: `gorseller/06-proje-inceleme.png`.
-
 ## 6. Değişiklikleri onaylama ve geri alma
 
 Model bir dosya değişikliği önerdiğinde **Değişiklikler** bölümünden öneriyi aç. Kırmızı satırlar kaldırılan, yeşil satırlar eklenen içeriktir. Öneride birden fazla dosya varsa her birini incele.
@@ -141,9 +131,6 @@ Model bir dosya değişikliği önerdiğinde **Değişiklikler** bölümünden �
 
 Öneri beklerken dosyayı başka bir editörde değiştirdiysen Atölye eski öneriyi dosyanın üzerine yazmaz. Dosyanın yeniden okunmasını ve önerinin yenilenmesini iste. Geri alma sonrasında da başka düzenlemelerin kaybolmaması için dosyanın güncel durumu kontrol edilir.
 
-
-
-**Görselde:** Dosya adı, kırmızı/yeşil satırlar, Reddet ve Onayla ve uygula düğmeleri görünsün. Dosya adı: `gorseller/07-degisiklik-onayi.png`.
 
 ## 7. Resim, dosya ve ZIP ekleme
 
@@ -159,8 +146,6 @@ olabilecek bölümü bul ve düzeltme önerini açıkla.
 <img width="854" height="234" alt="image" src="https://github.com/user-attachments/assets/88724926-24ad-4f50-ba8e-9ee4a96c1842" />
 
 
-**Görselde:** Dosya ekle düğmesi, bir resim kartı, bir kod dosyası ve bir ZIP kartı görünsün. Dosya adı: `gorseller/08-dosya-ekleme.png`.
-
 | İçerik | Destek ve sınırlar |
 | --- | --- |
 | Resim | PNG, JPG/JPEG, WebP, GIF ve BMP. GIF'in ilk karesi kullanılır. En fazla 10 MB ve 40 megapiksel. Gönderim için uzun kenar en fazla 1600 piksele indirilir. |
@@ -173,9 +158,6 @@ Bir mesajda en fazla **8 ek** bulunabilir. Bir metin veya ZIP içeriği yaklaş�
 ZIP dosyası proje klasörüne açılmaz. İçeriği konuşma için referans olarak okunur; eklediğin kaynak dosyalar kendiliğinden projenin parçası olmaz. Şifreli ZIP girdileri, ikili dosyalar, bazı gizli dosyalar ve üretilmiş klasörler atlanır. Proje düzenlemek için ayrıca **Klasör aç** kullan.
 
 
-
-**Görselde:** ZIP adı, okunabilen dosyalar ve varsa atlanan/kısaltılan içerik açıklaması görünsün. Dosya adı: `gorseller/09-zip-onizleme.png`.
-
 ## 8. Sohbetler ve kısayollar
 
 Sol paneldeki **Yeni sohbet** ile yeni konuşma başlat. Önceki bir konuşmaya dönmek için adına tıkla. **Sohbeti dışa aktar** mesaj metinlerini dosyaya kaydeder; eklerin orijinal dosyalarını dışa aktarmaz.
@@ -183,9 +165,6 @@ Sol paneldeki **Yeni sohbet** ile yeni konuşma başlat. Önceki bir konuşmaya 
 Sohbetin yanındaki **Sil** düğmesi bir onay penceresi açar. **Sohbeti sil** mesajları, gönderilen ekleri ve sohbetin değişiklik geçmişini siler. Projeye uygulanmış düzenlemeler ve yerel dosya yedekleri korunur. İşlem devam ediyorsa önce **Durdur** düğmesine bas.
 
 <img width="1398" height="881" alt="image" src="https://github.com/user-attachments/assets/859ace57-a2e0-443f-8888-e960d1f2007d" />
-
-
-**Görselde:** Sohbet silinsin mi? başlığı, açıklama, Vazgeç ve Sohbeti sil düğmeleri görünsün. Dosya adı: `gorseller/10-sohbet-silme.png`.
 
 | Kısayol | İşlem |
 | --- | --- |
