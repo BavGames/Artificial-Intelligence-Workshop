@@ -70,9 +70,8 @@ Noxery örnek bir API sağlayıcısıdır. Atölye paketi Noxery hesabı, abonel
 2. Hesap panelindeki **API Keys / API anahtarları** bölümünü aç.
 3. Yeni bir anahtar oluştur ve Atölye'deki API anahtarı alanına yapıştır. Anahtarın oluşturulurken gösterildiği ekranda kopyalanması gerekir. Sağlayıcının [kimlik doğrulama belgesini](https://noxery.net/tr/docs/api/authentication) kontrol edebilirsin.
 
-```text
-<---- 03: NOXERY API ANAHTARLARI SAYFASI RESMİ EKLENECEK ---->
-```
+<img width="1281" height="752" alt="image" src="https://github.com/user-attachments/assets/f38a3d46-1a58-426b-84d5-e6693b6c0b5d" />
+
 
 **Görselde:** API anahtarlarının bulunduğu bölüm ve yeni anahtar oluşturma düğmesi görünsün. Gerçek anahtarın tamamını ve hesap bilgilerini kapat. Dosya adı: `gorseller/03-noxery-api-anahtari.png`.
 
@@ -82,9 +81,8 @@ Noxery örnek bir API sağlayıcısıdır. Atölye paketi Noxery hesabı, abonel
 
 Modelin resim desteği ve kullanılabilirliği modele göre değişir. Sağlayıcının [model listesi belgesi](https://noxery.net/tr/docs/api/models) bu konuda referanstır.
 
-```text
-<---- 04: NOXERY MODEL SAYFASI RESMİ EKLENECEK ---->
-```
+<img width="1289" height="875" alt="image" src="https://github.com/user-attachments/assets/c324755d-84f4-4ed6-9204-f2517505ac19" />
+
 
 **Görselde:** Modelin adı ve tam model kimliği okunabilsin. Görsellerle kullanımı anlatıyorsan görsel desteği olan bir modeli göster. Dosya adı: `gorseller/04-noxery-model.png`.
 
@@ -101,9 +99,8 @@ Modelin resim desteği ve kullanılabilirliği modele göre değişir. Sağlayı
 
 **Kaydet ve modelleri getir** düğmesine bas, istediğin modeli seç ve **Ayarları kaydet** ile tamamla. İlk deneme için “Merhaba, Türkçe yanıt ver.” mesajını gönder.
 
-```text
-<---- 05: UYGULAMADAN BAĞLANTI VE AYARLAR RESMİ EKLENECEK ---->
-```
+<img width="1415" height="893" alt="image" src="https://github.com/user-attachments/assets/0c3c99f8-f6b6-4c8c-b73f-d00e4c0a75bd" />
+
 
 **Görselde:** Çalışma arkadaşını seç. başlığı, API adresi, maskelenmiş anahtar, model kimliği, yanıt sınırı ve başarılı model listesi durumu görünsün. Dosya adı: `gorseller/05-atolye-ayarlar.png`.
 
@@ -129,9 +126,8 @@ Ayarları kaydettikten sonra pencereyi tekrar açınca model seçimi boş görü
 İlgili dosyaları incele, sorunun nedenini açıkla ve bir düzeltme önerisi hazırla.
 ```
 
-```text
-<---- 06: PROJE KLASÖRÜ AÇILMIŞ SOHBET EKRANI RESMİ EKLENECEK ---->
-```
+<img width="1416" height="892" alt="image" src="https://github.com/user-attachments/assets/8db0dfa0-95cc-401c-93d4-d0e6bfb5ae86" />
+
 
 **Görselde:** Örnek proje adı, sağdaki dosya listesi ve örnek bir inceleme mesajı görünsün. Paylaşılabilir bir örnek proje kullan. Dosya adı: `gorseller/06-proje-inceleme.png`.
 
@@ -145,9 +141,7 @@ Model bir dosya değişikliği önerdiğinde **Değişiklikler** bölümünden �
 
 Öneri beklerken dosyayı başka bir editörde değiştirdiysen Atölye eski öneriyi dosyanın üzerine yazmaz. Dosyanın yeniden okunmasını ve önerinin yenilenmesini iste. Geri alma sonrasında da başka düzenlemelerin kaybolmaması için dosyanın güncel durumu kontrol edilir.
 
-```text
-<---- 07: DEĞİŞİKLİK İNCELEME VE ONAY EKRANI RESMİ EKLENECEK ---->
-```
+
 
 **Görselde:** Dosya adı, kırmızı/yeşil satırlar, Reddet ve Onayla ve uygula düğmeleri görünsün. Dosya adı: `gorseller/07-degisiklik-onayi.png`.
 
@@ -162,9 +156,8 @@ Bu ekran görüntüsündeki hatayı incele. Eklediğim kaynak dosyada buna neden
 olabilecek bölümü bul ve düzeltme önerini açıkla.
 ```
 
-```text
-<---- 08: MESAJ ALANINA RESİM VE DOSYA EKLENMİŞ HALİNİN RESMİ EKLENECEK ---->
-```
+<img width="854" height="234" alt="image" src="https://github.com/user-attachments/assets/88724926-24ad-4f50-ba8e-9ee4a96c1842" />
+
 
 **Görselde:** Dosya ekle düğmesi, bir resim kartı, bir kod dosyası ve bir ZIP kartı görünsün. Dosya adı: `gorseller/08-dosya-ekleme.png`.
 
@@ -179,9 +172,7 @@ Bir mesajda en fazla **8 ek** bulunabilir. Bir metin veya ZIP içeriği yaklaş�
 
 ZIP dosyası proje klasörüne açılmaz. İçeriği konuşma için referans olarak okunur; eklediğin kaynak dosyalar kendiliğinden projenin parçası olmaz. Şifreli ZIP girdileri, ikili dosyalar, bazı gizli dosyalar ve üretilmiş klasörler atlanır. Proje düzenlemek için ayrıca **Klasör aç** kullan.
 
-```text
-<---- 09: ZIP DOSYASI İÇERİK ÖNİZLEMESİ RESMİ EKLENECEK ---->
-```
+
 
 **Görselde:** ZIP adı, okunabilen dosyalar ve varsa atlanan/kısaltılan içerik açıklaması görünsün. Dosya adı: `gorseller/09-zip-onizleme.png`.
 
@@ -191,9 +182,8 @@ Sol paneldeki **Yeni sohbet** ile yeni konuşma başlat. Önceki bir konuşmaya 
 
 Sohbetin yanındaki **Sil** düğmesi bir onay penceresi açar. **Sohbeti sil** mesajları, gönderilen ekleri ve sohbetin değişiklik geçmişini siler. Projeye uygulanmış düzenlemeler ve yerel dosya yedekleri korunur. İşlem devam ediyorsa önce **Durdur** düğmesine bas.
 
-```text
-<---- 10: SOHBET SİLME ONAY PENCERESİ RESMİ EKLENECEK ---->
-```
+<img width="1398" height="881" alt="image" src="https://github.com/user-attachments/assets/859ace57-a2e0-443f-8888-e960d1f2007d" />
+
 
 **Görselde:** Sohbet silinsin mi? başlığı, açıklama, Vazgeç ve Sohbeti sil düğmeleri görünsün. Dosya adı: `gorseller/10-sohbet-silme.png`.
 
@@ -244,18 +234,7 @@ Bu bölüm, kılavuzu dağıtım için hazırlayan kişiye yöneliktir. Yukarıd
 5. Görselin altındaki hazırlama talimatını istersen sil. Diğer kullanım açıklamaları kalabilir.
 6. README.md ile gorseller klasörünü birlikte tut ve uygulama klasörünün tamamını yeniden ZIP yap.
 
-```markdown
-![BavGames Atölye ana ekranı](gorseller/01-ana-ekran.png)
-![ZIP'ten çıkarılmış uygulama klasörü](gorseller/02-kurulum-klasoru.png)
-![Noxery API anahtarları](gorseller/03-noxery-api-anahtari.png)
-![Noxery model bilgisi](gorseller/04-noxery-model.png)
-![Atölye bağlantı ayarları](gorseller/05-atolye-ayarlar.png)
-![Proje inceleme](gorseller/06-proje-inceleme.png)
-![Değişiklik onayı](gorseller/07-degisiklik-onayi.png)
-![Sohbete dosya ekleme](gorseller/08-dosya-ekleme.png)
-![ZIP önizlemesi](gorseller/09-zip-onizleme.png)
-![Sohbet silme](gorseller/10-sohbet-silme.png)
-```
+
 
 Gerçek API anahtarını, kişisel hesap bilgilerini veya özel proje içeriğini görsellere koyma. Örnek proje ve maskelenmiş anahtar kullan. Görsellerde metinler okunacak büyüklükte olsun; ilgili pencereyi göstermek yeterlidir.
 
