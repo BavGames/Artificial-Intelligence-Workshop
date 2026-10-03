@@ -35,9 +35,8 @@ Gerekenler: Windows x64 bilgisayar, paketin tamamını açabileceğin bir klasö
 
 Atolye.exe dosyasını yanındaki `resources`, `locales` ve diğer dosyalardan ayırma. Masaüstüne erişim için exe dosyasını taşımak yerine kısayol oluşturabilirsin. Paketli uygulama için Node.js veya VS Code kurulumu gerekmez.
 
-```text
-<---- 02: ZIP'TEN ÇIKARILMIŞ UYGULAMA KLASÖRÜ RESMİ EKLENECEK ---->
-```
+<img width="854" height="445" alt="image" src="https://github.com/user-attachments/assets/760d1e99-3ed9-45b7-b179-8409593f002d" />
+
 
 **Görselde:** Windows Dosya Gezgini içinde Atolye.exe, resources ve locales birlikte görünsün. Dosya adı: `gorseller/02-kurulum-klasoru.png`.
 
