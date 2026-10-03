@@ -1,0 +1,7 @@
+/BavGames-Atolye-*/
+/*.zip
+/*.zip.sha256
+/dist/
+/node_modules/
+/test-output/
+*.log

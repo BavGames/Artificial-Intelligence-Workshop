@@ -1,6 +1,9 @@
 # BavGames Atölye
 
 **Türkçe kodlama asistanı | Sürüm 1.1.0 | Windows x64**
+**İndir:** [Windows uygulamasını Releases bölümünden indir](https://github.com/BavGames/Artificial-Intelligence-Workshop/releases).
+
+Bir sürümün **Assets** bölümündeki `BavGames-Atolye-1.1.0-Windows-x64.zip` paketini kullan. GitHub'ın **Code > Download ZIP** seçeneği ve otomatik **Source code** arşivleri çalıştırılabilir uygulamayı içermez.
 
 Atölye, **BavGames tarafından geliştirilen** bir masaüstü kodlama asistanıdır. Proje klasörünü açabilir, dosyaların nasıl çalıştığını sorabilir, hata incelemesi yaptırabilir ve yeni özellikler için değişiklik önerileri alabilirsin. Dosya değişiklikleri, sen inceleyip onayladıktan sonra uygulanır.
 
